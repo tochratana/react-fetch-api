@@ -1,6 +1,6 @@
 # React Fetch API
 
-This project I create it for learn ```How to fetch API in React JS```.
+This project I create it for learn ```How to fetch API in React JS and query data with name of product.```.
 #
 ### API
 ```
